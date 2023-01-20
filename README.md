@@ -8,28 +8,42 @@ GEO json containing , province id , district id , municipality id and devanagari
 ## Province geojson has following properties
 
 province_code
+
 province_name_en
+
 province_name_np
 
 
 ## District geojson has following properties
 
 province_code
+
 province_name_en
+
 province_name_np
+
 district_code
+
 district_name_en
+
 district_name_np
 
 ## Municipality geojson has following properties
 
 province_code
+
 province_name_en
+
 province_name_np
+
 district_code
+
 gapa_id
+
 municipality_code
+
 gapa_napa
+
 gapa_napa_np
+
 type
-key
